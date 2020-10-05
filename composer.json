@@ -1,0 +1,7 @@
+{
+    "name": "better-reflection-test",
+    "require": {
+        "rector/rector": "0.8.14",
+        "nesbot/carbon": "^2.40"
+    }
+}
